@@ -1,11 +1,11 @@
-int frontLMF = 12;              
+int frontLMF = 11;              
 int frontRMF = 5;               
-int frontLMB = 11;              
+int frontLMB = 12;              
 int frontRMB = 6; 
 int backLMF = 4;              
-int backRMF = 8;               
+int backRMF = 7;               
 int backLMB = 3;              
-int backRMB = 7; 
+int backRMB = 8; 
 word i;
 
 void setup() {
